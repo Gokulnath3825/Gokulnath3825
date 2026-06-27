@@ -1,2 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gokulnath</h1>
-<h3 align="center">Java Developer | Full Stack Developer | AI Enthusiast</h3>
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%">
+</p>
