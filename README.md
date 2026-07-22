@@ -21,5 +21,8 @@
 <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,git,github,vscode"/>
 </p>
 
-🐍 Snake Eating My Contributions
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> </p>
+## 🐍 **Snake Eating My Contributions**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</p>
