@@ -24,5 +24,5 @@
 ## 🐍 **Snake Eating My Contributions**  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Gokulnath3825/Gokulnath3825/output/github-contribution-grid-snake-dark.svg" />
 </p>
