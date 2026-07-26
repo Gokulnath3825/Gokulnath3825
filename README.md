@@ -42,6 +42,18 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
@@ -68,6 +80,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gokulnath3825&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    🌟 5+ Projects Completed &nbsp;|&nbsp; 🏅 Java Certified &nbsp;|&nbsp; 🤖 AI/ML Workshops &nbsp;|&nbsp; 📱 Full Stack Developer &nbsp;|&nbsp; 🌐 Open Source Contributor
+  </marquee>
 </p>
 
 <p align="center">
