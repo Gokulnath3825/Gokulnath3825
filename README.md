@@ -60,20 +60,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gokulnath3825&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulnath3825&theme=radical&hide_border=true&background=0D1117" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gokulnath3825&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/> -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=Gokulnath3825&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulnath3825&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulnath3825&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulnath3825&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider"/>
 </p>
 
 ## 🏆 Achievements & Trophies
